@@ -1,13 +1,5 @@
 # Chasing Stars App
 
-[Link to the final report](/Chasing-Stars-final-report.md)
-## Team7 Member
-
-- Jingqian Cheng: Backend  
-- Jian He: Frontend, UI/UX Design  
-- Marco Qin: Machine learning/ Algorithm  
-- Michael Jiang: Frontend  
-
 ## Summary
 
 Chasing Stars is the one-stop solution for the perfect stargazing spots. This app is built for photographers, astronomy enthusiasts, and just anyone who ponders what is out there beyond us.  
